@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Sinema",
+      "day": "05.08.2021",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Spor",
+      "day": "06.08.2021",
+      "reminder": false
+    },
+    {
+      "text": "Kitap Okumak",
+      "day": "08.08.2021",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
